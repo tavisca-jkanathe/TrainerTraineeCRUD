@@ -1,0 +1,14 @@
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\bin\Debug\netcoreapp2.1\TrainerTraineeCRUD.deps.json
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\bin\Debug\netcoreapp2.1\TrainerTraineeCRUD.runtimeconfig.json
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\bin\Debug\netcoreapp2.1\TrainerTraineeCRUD.runtimeconfig.dev.json
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\bin\Debug\netcoreapp2.1\TrainerTraineeCRUD.dll
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.csprojAssemblyReference.cache
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.csproj.CoreCompileInputs.cache
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.RazorAssemblyInfo.cache
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.RazorAssemblyInfo.cs
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.AssemblyInfoInputs.cache
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.AssemblyInfo.cs
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\bin\Debug\netcoreapp2.1\TrainerTraineeCRUD.pdb
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.dll
+C:\Users\jkanathe\source\repos\TrainerTraineeCRUD\obj\Debug\netcoreapp2.1\TrainerTraineeCRUD.pdb
